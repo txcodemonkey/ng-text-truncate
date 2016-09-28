@@ -1,6 +1,6 @@
 {
   "name": "ng-text-truncate-2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Angular directive to truncate and expand text by it length",
   "main": "ng-text-truncate.js",
   "scripts": {
@@ -10,6 +10,12 @@
     "type": "git",
     "url": "https://github.com/txcodemonkey/ng-text-truncate.git"
   },
+  "keywords": [
+    "angular",
+    "truncate",
+    "show",
+    "hide"
+  ],
   "author": "txcodemonkey",
   "license": "ISC",
   "bugs": {

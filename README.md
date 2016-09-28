@@ -3,7 +3,9 @@ ng-text-truncate
 
 This is a simple, but fully functional, directive for truncating text in [angularjs](https://angularjs.org/) apps. This directive not only truncates your text, but also permits toggling the hidden part of the truncated text.
 
-If you are using *ng-text-truncate* in a project that already uses [Twitter Boostrap](http://getbootstrap.com/), then the toggling elements (i.e. textual links with the texts "More" and "Less") shall inherit Bootstrap's styles for textual links. If you are not using Twitter Boostrap or if you want to customize some aspect of the toggling elements, then you can write your own CSS for the class *ngTruncateToggleText*.
+If you are using *ng-text-truncate-2* in a project that already uses [Twitter Boostrap](http://getbootstrap.com/), then the toggling elements (i.e. textual links with the texts "More" and "Less") shall inherit Bootstrap's styles for textual links. If you are not using Twitter Boostrap or if you want to customize some aspect of the toggling elements, then you can write your own CSS for the class *ngTruncateToggleText*.
+
+This version fixes the explicit annotation issue.
 
 [DEMO 1 (Most of the use cases)](https://rawgit.com/lorenooliveira/ng-text-truncate/master/demo1.html)
 
